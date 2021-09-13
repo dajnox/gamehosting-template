@@ -5,4 +5,10 @@ I hope that this game hosting template of mine will be useful to someone.
 
 ![GSW](https://i.ibb.co/jHPcjTK/Screenshot-1.png "Screenshot #1")
 
+# Features
+* Live header slider
+* About Us
+* Live customer slider
+* Fully responsive
+
 I accept every kind of criticism as well as every kind of help. I would like to learn and be precise.
